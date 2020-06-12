@@ -21,7 +21,7 @@
         "44": "env/img/icon44x44.png",
         "128": "env/img/icon128x128.png" },
    "manifest_version" : 2,
-   "version": "1.0.0.1",
+   "version": "1.0.0.2",
    "name": "__MSG_ext_name__",
    "description": "__MSG_ext_description__",
    "author" : "nradiowave",  
@@ -34,6 +34,16 @@
         "open_in_tab": true
    },
    "permissions": [
-        "storage" 
+        "storage",
+        "*://joyreactor.cc/*", 
+        "*://*.reactor.cc/*", 
+        "*://joyreactor.com/*",
+        "*://jr-proxy.com/*",
+        "*://safereactor.cc/*",
+        "*://jrproxy.com/*",
+        "*://cookreactor.com/*",
+        "*://pornreactor.cc/*",
+        "*://thatpervert.com/*",
+        "*://fapreactor.com/*"
     ]
 }
