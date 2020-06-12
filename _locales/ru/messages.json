@@ -1,0 +1,35 @@
+{  
+    "ext_description":{  
+        "message":"Отображает рейтинг постов и комментов для авторизованных пользователей"
+    },
+    "ext_name":{  
+        "message":"KellyC JRShowRating"
+    }, 
+    "save":{  
+        "message":"Сохранить"
+    },   
+    "save_ok":{  
+        "message":"Настройки изменены"
+    },
+    "save_error":{  
+        "message":"Ошибка сохранения"
+    }, 
+    "chik_advice":{  
+        "message":"Если и так все работает, не трогай настройки<br><a href=\"__SUPPORT_LINK__\" target=\"_blank\">[Сайт поддержки]</a>"
+    },
+    "option_postLink":{  
+        "message":"Шаблон ссылки до публикации"
+    },
+    "option_delay":{  
+        "message":"Задержка между запросами (сек.)"
+    },
+    "option_timeout":{  
+        "message":"Таймаут запроса (сек.)"
+    },  
+    "option_debug":{  
+        "message":"Режим отладки (1 или 0)"
+    },
+    "option_scrollOffset":{  
+        "message":"Отступ (инициализация загрузки)"
+    }
+}

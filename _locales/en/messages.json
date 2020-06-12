@@ -1,0 +1,35 @@
+{  
+    "ext_description":{  
+        "message":"Show rating of posts and comments for authored users"
+    },
+    "ext_name":{  
+        "message":"KellyC JRShowRating"
+    },    
+    "save":{  
+        "message":"Save"
+    },    
+    "save_ok":{  
+        "message":"Config updated"
+    },
+    "save_error":{  
+        "message":"Error during save config"
+    }, 
+    "chik_advice":{  
+        "message":"If all works well, don't edit here anything<br><a href=\"__SUPPORT_LINK__\" target=\"_blank\">[Support]</a>"
+    },
+    "option_postLink":{  
+        "message":"Publication link template"
+    },
+    "option_delay":{  
+        "message":"Delay between requests"
+    },
+    "option_timeout":{  
+        "message":"Request timeout"
+    },     
+    "option_debug":{  
+        "message":"Debug mode"
+    },
+    "option_scrollOffset":{  
+        "message":"Scroll offset"
+    }
+}
