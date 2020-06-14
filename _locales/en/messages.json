@@ -25,6 +25,9 @@
     },
     "option_timeout":{  
         "message":"Request timeout"
+    },   
+    "option_scrollDelay":{  
+        "message":"Delay for scroll move"
     },     
     "option_debug":{  
         "message":"Debug mode"

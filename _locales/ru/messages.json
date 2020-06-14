@@ -25,7 +25,10 @@
     },
     "option_timeout":{  
         "message":"Таймаут запроса (сек.)"
-    },  
+    },    
+    "option_scrollDelay":{  
+        "message":"Задержка при скролле (сек.)"
+    },      
     "option_debug":{  
         "message":"Режим отладки (1 или 0)"
     },
