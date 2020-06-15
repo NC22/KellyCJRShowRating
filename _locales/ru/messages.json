@@ -13,9 +13,21 @@
     },
     "save_error":{  
         "message":"Ошибка сохранения"
-    }, 
+    },   
+    "support_link":{  
+        "message":"Сайт поддержки"
+    },  
+    "show_additions":{  
+        "message":"Показать расширеные настройки"
+    },
     "chik_advice":{  
-        "message":"Если и так все работает, не трогай настройки<br><a href=\"__SUPPORT_LINK__\" target=\"_blank\">[Сайт поддержки]</a>"
+        "message":"Если и так все работает, не трогай<br><b>расширеные настройки</b>"
+    },
+    "option_hidePostByRating":{  
+        "message":"Скрывать посты с рейтингом ниже"
+    },  
+    "option_hideCommentByRating":{  
+        "message":"Скрывать коменты с рейтингом ниже"
     },
     "option_postLink":{  
         "message":"Шаблон ссылки до публикации"

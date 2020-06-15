@@ -10,12 +10,24 @@
     },    
     "save_ok":{  
         "message":"Config updated"
-    },
+    },  
+    "show_additions":{  
+        "message":"Show addition options"
+    }, 
     "save_error":{  
         "message":"Error during save config"
-    }, 
+    },  
+    "support_link":{  
+        "message":"Support"
+    },
     "chik_advice":{  
-        "message":"If all works well, don't edit here anything<br><a href=\"__SUPPORT_LINK__\" target=\"_blank\">[Support]</a>"
+        "message":"If all works well, don't edit addition options"
+    },
+    "option_hidePostByRating":{  
+        "message":"Hide publications with rating lower then"
+    },  
+    "option_hideCommentByRating":{  
+        "message":"Hide comments with rating lower then"
     },
     "option_postLink":{  
         "message":"Publication link template"
