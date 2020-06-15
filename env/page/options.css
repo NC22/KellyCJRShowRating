@@ -17,7 +17,7 @@ button {
     background: #8d98ba;
     border: 1px solid #65749e;
     color: #fff;
-    font-weight: bold;
+    font-weight: normal;
     min-width : 250px;
     text-align : center;
     margin-bottom : 6px;
@@ -28,8 +28,7 @@ button:hover {
     background-color: #a1afd9;
 }
 
-#header {
-    
+#header {    
     color : #fff;
 }
 
