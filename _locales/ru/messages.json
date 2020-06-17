@@ -43,9 +43,12 @@
     },    
     "option_scrollDelay":{  
         "message":"Задержка при скролле (сек.)"
-    },      
+    }, 
+    "option_offIfUnauth":{  
+        "message":"Выключять если не авторизован"
+    },   
     "option_debug":{  
-        "message":"Режим отладки (1 или 0)"
+        "message":"Режим отладки"
     },
     "option_scrollOffset":{  
         "message":"Отступ (инициализация загрузки)"

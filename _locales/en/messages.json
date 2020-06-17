@@ -43,7 +43,10 @@
     },   
     "option_scrollDelay":{  
         "message":"Delay for scroll move"
-    },     
+    },        
+    "option_offIfUnauth":{  
+        "message":"Off if logged out"
+    },   
     "option_debug":{  
         "message":"Debug mode"
     },
