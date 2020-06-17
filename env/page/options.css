@@ -76,8 +76,36 @@ button:hover {
     box-sizing: border-box;
 }
 
-.kelly-options-additions {
+.kelly-options-additions-wrap {
     display : none;
+    border-radius: 6px;
+    overflow: hidden;
+    width: 280px;
+    height: 234px;
+    margin-bottom: 15px;  
+    margin-left: -8px;
+}
+
+.kelly-options-additions {
+    
+    max-height: 234px;
+    overflow-y: scroll;
+    background: rgba(128, 142, 183, 0.35);
+    padding: 6px;
+    box-sizing: border-box;
+}
+
+.kelly-options-additions::-webkit-scrollbar {
+    width: 1em;
+}
+ 
+.kelly-options-additions::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+.kelly-options-additions::-webkit-scrollbar-thumb {
+  background-color: #65749e;
+  outline: 1px solid slategrey;
 }
 
 .kelly-options-result.show {
@@ -91,7 +119,7 @@ button:hover {
     font-size: 14px;
 }
 
-.kelly-options-additions.show {
+.kelly-options-additions-wrap.show {
     display : block;
 }
 
