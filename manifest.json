@@ -5,7 +5,6 @@
           "lib/kellyStorage.js", 
           "lib/kellyShowRateTpl.js", 
           "lib/kellyShowRate.js",
-          "lib/kellyShowRate.js",
           "lib/kellyTHComments.js", 
           "init/init.js"
       ],
