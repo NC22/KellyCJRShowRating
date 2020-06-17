@@ -25,9 +25,12 @@
     },
     "option_hidePostByRating":{  
         "message":"Hide publications with rating lower then"
-    },  
+    },
     "option_hideCommentByRating":{  
         "message":"Hide comments with rating lower then"
+    },
+    "option_highlightComments":{  
+        "message":"Highlight comments by rating"
     },
     "option_postLink":{  
         "message":"Publication link template"

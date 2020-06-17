@@ -28,6 +28,9 @@
     },  
     "option_hideCommentByRating":{  
         "message":"Скрывать комменты с рейтингом ниже"
+    },    
+    "option_highlightComments":{  
+        "message":"Подсвечивать комменты по рейтингу"
     },
     "option_postLink":{  
         "message":"Шаблон ссылки до публикации"
