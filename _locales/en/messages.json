@@ -32,6 +32,9 @@
     "option_highlightComments":{  
         "message":"Highlight comments by rating"
     },
+    "option_highlightPreset":{  
+        "message":"highlightPreset (1-2)"
+    },
     "option_postLink":{  
         "message":"Publication link template"
     },

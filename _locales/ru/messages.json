@@ -32,6 +32,9 @@
     "option_highlightComments":{  
         "message":"Подсвечивать комменты по рейтингу"
     },
+    "option_highlightPreset":{  
+        "message":"highlightPreset (1-2)"
+    },
     "option_postLink":{  
         "message":"Шаблон ссылки до публикации"
     },
