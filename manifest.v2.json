@@ -1,0 +1,56 @@
+{
+   "content_scripts": [ {
+      "js": [
+          "lib/kellyTools.js", 
+          "lib/kellyStorage.js", 
+          "lib/kellyShowRateTpl.js", 
+          "lib/kellyShowRate.js",
+          "lib/kellyTHComments.js", 
+          "init/init.js"
+      ],
+      "all_frames": false,
+      "matches": [ 
+        "*://joyreactor.cc/*", 
+        "*://*.reactor.cc/*", 
+        "*://joyreactor.com/*",
+        "*://jr-proxy.com/*",
+        "*://safereactor.cc/*",
+        "*://jrproxy.com/*",
+        "*://cookreactor.com/*",
+        "*://pornreactor.cc/*",
+        "*://thatpervert.com/*",
+        "*://fapreactor.com/*"
+        ]
+   } ],
+   "default_locale" : "en",
+   "icons": { 
+        "32": "env/img/icon32x32.png",
+        "44": "env/img/icon44x44.png",
+        "128": "env/img/icon128x128.png" },
+   "manifest_version" : 2,
+   "version": "1.0.1.9",
+   "name": "__MSG_ext_name__",
+   "description": "__MSG_ext_description__",
+   "author" : "nradiowave",  
+   "background": {
+        "scripts": ["lib/kellyTools.js", "lib/kellyDispetcher.js"],
+        "persistent": false
+   },  
+   "options_ui": {
+        "page": "env/page/options.html",
+        "open_in_tab": true
+   },
+   "permissions": [
+        "storage",
+        "*://joyreactor.cc/*", 
+        "*://*.reactor.cc/*", 
+        "*://joyreactor.com/*",
+        "*://jr-proxy.com/*",
+        "*://safereactor.cc/*",
+        "*://jrproxy.com/*",
+        "*://cookreactor.com/*",
+        "*://pornreactor.cc/*",
+        "*://thatpervert.com/*",
+        "*://fapreactor.com/*"
+    ]
+}
